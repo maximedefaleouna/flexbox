@@ -1,0 +1,21 @@
+quand on parle de flexox ,
+
+il faut un élément parent dit conteneur et des éléments enfants , les items
+avec les flexbox nous avons deux axes 
+
+-- le main axis :  l'axes horizontale(de direction gauche vers droite qu'on peut changer d'ailleurs)
+-- le cross axis : l'axes vertical (de direction haut vers le bas qu'on peut aussi changer)
+
+
+
+Listons toutes les propriétés qui peuvent être attribuer au container et au items
+
+-- container :
+
+     display : il permet de definir le container en flex ou inline-flex
+     flex-direction : il permet de definir la direction suivant les axes de comment les items sont placés
+     flex-wrap
+     flex-flow
+     justify-content
+     align-items
+     align-content
